@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 80px 13%;
+    padding: 70px 13%;
     background-color: #121317;
 }
 
@@ -57,4 +57,18 @@ p {
     color: #fff;
     font-size: 5rem;
     font-weight: 700;
+}
+
+.time {
+    margin-top: 100px;
+}
+
+.time p {
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: none;
+}
+
+.time span {
+    color: #99ff20;
 }
